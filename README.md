@@ -1,10 +1,10 @@
 # Project CollaborativeNotepad
 
-### (Original) description of the project (in Romanian)
+### (Original) description of the app (in Romanian)
 CollaborativeNotepad (A) <br>
 Sa se realizeze o aplicatie client/server ce permite editarea simultana a fisierelor text. Un fisier va putea fi editat in acelasi timp de maxim doi clienti. Serverul va permite insa mai multe astfel de sesiuni concurente de editare pe documente diferite (ex. 2 perechi de cate 2 clienti pe 2 documente). Serverul va stoca fisierele, punand la dispozitia clientilor operatiile de creare si download. Aplicatia va trebui sa implementeze un protocol de comunicare pentru operarea concurenta asupra fisierelor. Se va avea in vedere consistenta documentului editat la modificari simultane asupra unei parti comune (ex. plasarea cursorului celor doi clienti cand unul scrie si celalalt sterge in aceeasi pozitie).
 
-### About my project
+### About my own app
 Collaborative Notepad is an app that allows users to interact with each others (virtual) files and write text in there through a notepad. The app is quite simple but there are some key features like communication through database and encrypted database data, would allow users to recieve/invite someone to edit on a file with them, will provide a download option so that the files can be downloaded on each editor's computer. An account is necessary for gaining access to any of the functions and a singup is necessary at first use. 
 
 ### How to use it
