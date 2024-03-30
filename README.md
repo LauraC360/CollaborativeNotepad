@@ -19,5 +19,5 @@ When needing to edit a document, you can just type the respective command and yo
 
 The way to invite someone to edit a document is to use the command for edit and to add the user [username] as an editor for your document. You can't invite two people to collaborate on a document at the same time, since collaboration at the same time with 3 or more people is not allowed in this app.
 
-#### CAUTION
+#### ATTENTION
 Please note that it can have many bugs/errors since it was not tested enough for each possible use case.
