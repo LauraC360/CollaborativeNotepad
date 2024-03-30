@@ -2,7 +2,7 @@
 ## 
 
 ### (Original) description of the project (in Romanian)
-CollaborativeNotepad (A)
+CollaborativeNotepad (A) <br>
 Sa se realizeze o aplicatie client/server ce permite editarea simultana a fisierelor text. Un fisier va putea fi editat in acelasi timp de maxim doi clienti. Serverul va permite insa mai multe astfel de sesiuni concurente de editare pe documente diferite (ex. 2 perechi de cate 2 clienti pe 2 documente). Serverul va stoca fisierele, punand la dispozitia clientilor operatiile de creare si download. Aplicatia va trebui sa implementeze un protocol de comunicare pentru operarea concurenta asupra fisierelor. Se va avea in vedere consistenta documentului editat la modificari simultane asupra unei parti comune (ex. plasarea cursorului celor doi clienti cand unul scrie si celalalt sterge in aceeasi pozitie).
 
 #### About my project
