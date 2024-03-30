@@ -20,3 +20,6 @@ The way to invite someone to edit a document is to use the command for edit and 
 
 ## ATTENTION
 Please note that it can have many bugs/errors since it was not tested enough for each possible use case.
+
+#### Notes
+This project was developed entirely on a Linux system, using only C, and it also made for Linux systems. It may not work as well on a Windows or Mac.
