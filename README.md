@@ -1,5 +1,4 @@
 # Project CollaborativeNotepad
-## 
 
 ### (Original) description of the project (in Romanian)
 CollaborativeNotepad (A) <br>
